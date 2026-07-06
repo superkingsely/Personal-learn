@@ -1,0 +1,8 @@
+✅ Correct pattern for reports
+
+👉 Always:
+
+Filter
+Project
+Group (or aggregate)
+THEN paginate
